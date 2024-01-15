@@ -2,13 +2,14 @@
 
 ![Imagem do projeto finalizado](jjk.png)
 
-<h4 align="center"><a href="https://jedev1.github.io/Meu-portifolio/">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://jedev1.github.io/Jujutsu-kaisen/jjk-projeto">Confira o projeto aqui</a></h4>
 
 ---
 
 ## 💻 Sobre
 
 Projeto feito no intuito de mostrar minhas habilidades.(projeto está no meu portifólio confira)
+<h4 align="center"><a href="https://jedev1.github.io/Meu-portifolio">Confira o projeto aqui</a></h4>
 
 ## 🧠 Tecnologias utilizadas:
 
